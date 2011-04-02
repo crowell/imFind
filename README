@@ -1,0 +1,7 @@
+Android EC327 project
+
+homescreen: allows use of camera to take picture, saves to /sdcard/test.jpg.
+
+recognize and learn not implemented.
+
+GUI is finished, but can still be modified to do more things.

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:id="@+id/widget0"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<TableLayout
+android:id="@+id/widget36"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+android:layout_x="0px"
+android:layout_y="0px"
+>
+<TextView
+android:id="@+id/name1"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Jeff Crowell: GUI"
+>
+</TextView>
+<TextView
+android:id="@+id/name2"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Other Names: Other Roles"
+>
+</TextView>
+<Button
+android:id="@+id/bback"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="back"
+>
+</Button>
+</TableLayout>
+</AbsoluteLayout>
