@@ -14,7 +14,7 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int bback=0x7f050010;
+        public static final int bback=0x7f050011;
         public static final int bcredit=0x7f05000b;
         public static final int blearn=0x7f05000c;
         public static final int brecognize=0x7f05000d;
@@ -22,9 +22,10 @@ public final class R {
         public static final int buttonClick=0x7f050002;
         public static final int imageView1=0x7f050007;
         public static final int layout=0x7f050000;
+        public static final int learnedtext=0x7f05000e;
         public static final int linearLayout1=0x7f050006;
-        public static final int name1=0x7f05000e;
-        public static final int name2=0x7f05000f;
+        public static final int name1=0x7f05000f;
+        public static final int name2=0x7f050010;
         public static final int poptext=0x7f050004;
         public static final int preview=0x7f050001;
         public static final int widget=0x7f050003;

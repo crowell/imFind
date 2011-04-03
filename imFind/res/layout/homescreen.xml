@@ -30,5 +30,6 @@ android:text="credits"
 <Button android:text="Learn" android:id="@+id/blearn" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
 <Button android:text="Recognize" android:id="@+id/brecognize" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
 <ImageView android:src="@drawable/icon" android:layout_height="wrap_content" android:id="@+id/imageView1" android:layout_width="wrap_content"></ImageView>
+<TextView android:text="TextView" android:id="@+id/learnedtext" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
 </TableLayout>
 </AbsoluteLayout>
