@@ -1,6 +1,6 @@
 Android EC327 project
-
-homescreen: allows use of camera to take picture, saves to /sdcard/test.jpg.
+takes a picture, saves a bitmap to /sdcard/imFind.jpg
+when you do recognize, the string that you input is saved to /sdcard/currentlearned.txt
 
 recognize and learn not implemented.
 
