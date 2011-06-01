@@ -1,3 +1,7 @@
+DEVELOPMENT HAS BEEN ABANDONED:
+several group members didn't do parts, the final project doesn't fully work properly (memory leaks, can't be bothered to fix now)
+I will upload later to just give latest code as an example for those wishing to do something similar. 
+
 Android EC327 project
 takes a picture, saves a bitmap to /sdcard/imFind.jpg
 when you do recognize, the string that you input is saved to /sdcard/currentlearned.txt
